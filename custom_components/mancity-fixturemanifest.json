@@ -1,8 +1,8 @@
-{
+/{
    "domain": "mancity_fixture",
    "name": "Manchester City Fixture",
-   "documentation": "https://github.com/your-username/ha-mancity-fixture",
-   "codeowners": ["@your-username"],
+   "documentation": "https://github.com/dnwlmz/ha-mancity-fixture",
+   "codeowners": [@dnwlmz],
    "requirements": [],
    "dependencies": [],
    "version": "1.0.0"
