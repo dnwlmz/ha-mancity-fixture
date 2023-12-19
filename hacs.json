@@ -1,0 +1,8 @@
+{
+   "name": "Manchester City Fixture",
+   "content_in_root": true,
+   "render_readme": true,
+   "js_type": "module",
+   "filename": "mancity-fixture-card.js",
+   "dir": "www"
+}
