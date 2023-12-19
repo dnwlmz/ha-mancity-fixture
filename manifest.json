@@ -1,0 +1,9 @@
+{
+   "domain": "mancity_fixture",
+   "name": "Manchester City Fixture",
+   "documentation": "https://github.com/your-username/ha-mancity-fixture",
+   "codeowners": ["@your-username"],
+   "requirements": [],
+   "dependencies": [],
+   "version": "1.0.0"
+}
